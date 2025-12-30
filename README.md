@@ -1,4 +1,4 @@
-# NVIDIA Deep Learning Institute presents **Fundamentals of Accelerated_Data Science**
+# NVIDIA Deep Learning Institute presents **Fundamentals of Accelerated Data Science**
 
 ## Workshop Overview
 An introduction to data science with a focus on speed and efficiency
