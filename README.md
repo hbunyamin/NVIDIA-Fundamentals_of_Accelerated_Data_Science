@@ -8,4 +8,7 @@ An introduction to data science with a focus on speed and efficiency
 - Explore practical examples of accelerated data science pipelines
 - Examine the methods used to achieve acceleration in data science and discuss their broader implications
 
+## Setting Up
 
+
+## The Dataset can be Downloaded [here $\approx$ 10GB](https://drive.google.com/file/d/1AJrCv2h_O7KqLTarpyN6WX7vcatEEMkG/view?usp=sharing)
