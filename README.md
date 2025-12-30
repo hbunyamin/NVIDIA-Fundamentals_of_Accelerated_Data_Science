@@ -9,6 +9,6 @@ An introduction to data science with a focus on speed and efficiency
 - Examine the methods used to achieve acceleration in data science and discuss their broader implications
 
 ## Setting Up
+Please follow the [**RAPIDS Installation Guide**]https://docs.rapids.ai/install/)
 
-
-## The Dataset can be Downloaded <a href="https://drive.google.com/file/d/1AJrCv2h_O7KqLTarpyN6WX7vcatEEMkG/view?usp=sharing" target="_blank"><b>here</b></a> (The file is $\approx$ 10 GB).
+## The Dataset can be Downloaded <a href="https://drive.google.com/file/d/1AJrCv2h_O7KqLTarpyN6WX7vcatEEMkG/view?usp=sharing" target="_blank"><b>here</b></a> (The file size is $\approx$ 10 GB).
