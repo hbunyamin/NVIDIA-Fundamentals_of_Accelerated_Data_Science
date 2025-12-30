@@ -11,4 +11,4 @@ An introduction to data science with a focus on speed and efficiency
 ## Setting Up
 
 
-## The Dataset can be Downloaded [here $\approx$ 10GB](https://drive.google.com/file/d/1AJrCv2h_O7KqLTarpyN6WX7vcatEEMkG/view?usp=sharing)
+## The Dataset can be Downloaded <a href="https://drive.google.com/file/d/1AJrCv2h_O7KqLTarpyN6WX7vcatEEMkG/view?usp=sharing" target="_blank"><b>here</b></a> (The file is $\approx$ 10 GB).
