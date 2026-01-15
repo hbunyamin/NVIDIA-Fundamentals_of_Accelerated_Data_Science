@@ -13,4 +13,4 @@ An introduction to data science with a focus on speed and efficiency
 Please follow the [**RAPIDS Installation Guide**](https://docs.rapids.ai/install/)
 
 ### The Dataset 
-The dataset can be downloaded <a href="https://drive.google.com/file/d/1AJrCv2h_O7KqLTarpyN6WX7vcatEEMkG/view?usp=sharing" target="_blank"><b>here</b></a> (The file size is $\approx$ 10 GB).
+The dataset can be downloaded <a href="https://drive.google.com/file/d/1JaPgypAPcE85SA7WL7tP92DUnAXHqC2a/view?usp=sharing" target="_blank"><b>here</b></a> (The file size is $\approx$ 11 GB).
